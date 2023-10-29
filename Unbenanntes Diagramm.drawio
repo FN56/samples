@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T12:57:19.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="MyJRodP1mYAttWaF3VyV" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T17:17:34.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="rXp2O61Pqh-0AnH2Tm05" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="752" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="2cnXxDh6B2zNEW4Uu-Ul-2" value="Werkstatt&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="20" y="360" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2cnXxDh6B2zNEW4Uu-Ul-5" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="620" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2cnXxDh6B2zNEW4Uu-Ul-8" value="Mitarbeiter: VARCHAR (30)" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="100" height="40" as="geometry" />
